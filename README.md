@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 
 #### 🛠️Tech stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+
+#### 🔳Social Media
+- https://outgoing-rosemary-d6c.notion.site/Yun-Jihye-544699443da64de381cefb960ec28401?pvs=4
+- https://velog.io/@bw6295
