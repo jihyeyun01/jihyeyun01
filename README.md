@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 #### 🔳Social Media
 ▪ Notion
 https://outgoing-rosemary-d6c.notion.site/Yun-Jihye-544699443da64de381cefb960ec28401?pvs=4
+
 ▪ velog
 https://velog.io/@bw6295
